@@ -1,0 +1,9 @@
+<keymap version="1" name="Pudotta" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Macro.arrow">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>
