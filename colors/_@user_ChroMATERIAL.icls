@@ -3,7 +3,7 @@
     <property name="created">2018-02-14T13:30:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-14T15:18:32</property>
+    <property name="modified">2018-02-14T18:15:27</property>
     <property name="originalScheme">ChroMATERIAL</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1055,6 +1055,12 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
+    <option name="Identifier">
+      <value>
+        <option name="FOREGROUND" value="ff632c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="Instance field">
       <value>
         <option name="FOREGROUND" value="8c97d2" />
@@ -1547,6 +1553,12 @@
     <option name="KOTLIN_WRAPPED_INTO_REF">
       <value>
         <option name="FOREGROUND" value="78909c" />
+      </value>
+    </option>
+    <option name="Keyword">
+      <value>
+        <option name="FOREGROUND" value="2be08c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LABEL">
