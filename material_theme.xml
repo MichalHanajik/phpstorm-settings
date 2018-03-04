@@ -1,15 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.8.2.2" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightColor" value="ff9800" />
     <option name="isContrastMode" value="true" />
-    <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="ff9800" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="upperCaseTabs" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="monochromeIcons" value="true" />
     <option name="accentTitleBarColor" value="80cbc4" />
