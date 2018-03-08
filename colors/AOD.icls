@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T11:29:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-03-08T10:34:44</property>
+    <property name="modified">2018-03-08T11:33:43</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1259,6 +1259,12 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
+    <option name="Identifier">
+      <value>
+        <option name="FOREGROUND" value="398bc2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="Implicit conversion">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -1380,6 +1386,12 @@
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
+    </option>
+    <option name="Keyword">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="LABEL">
       <value>
