@@ -3,9 +3,10 @@
     <option name="version" value="2.1.5.3" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="84ffff" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="398bc2" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="compactDropdowns" value="true" />
