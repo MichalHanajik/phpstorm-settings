@@ -1,11 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
+    <option name="version" value="2.1.7.1" />
     <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="84ffff" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightColor" value="398bc2" />
+    <option name="highlightThickness" value="0" />
     <option name="isContrastMode" value="true" />
-    <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="398bc2" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
